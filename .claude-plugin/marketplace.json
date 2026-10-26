@@ -1,0 +1,5 @@
+{
+  "name": "claude-skill-badge",
+  "owner": { "name": "mashjprime" },
+  "plugins": [{ "name": "skill-badge", "source": "./" }]
+}

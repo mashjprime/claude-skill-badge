@@ -1,0 +1,8 @@
+{
+  "name": "skill-badge",
+  "version": "0.1.0",
+  "description": "Status line badge for Matt Pocock's skills: live TDD red/green/refactor, grilling rounds, and which skill called which",
+  "author": { "name": "mashjprime" },
+  "license": "MIT",
+  "repository": "https://github.com/mashjprime/claude-skill-badge"
+}
